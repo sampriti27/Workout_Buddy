@@ -14,7 +14,6 @@ Workout Buddy is a full-stack web application that helps users keep track of the
 - **Frontend:**
   - React: JavaScript library for building user interfaces.
   - React Context: State management for React applications.
-  - Axios: HTTP client for making API requests.
   - React Router: Navigation for single-page applications.
 
 - **Backend:**
